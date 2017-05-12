@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmotionDetector", "EmotionDetector\EmotionDetector.csproj", "{CD46E492-D5DE-4902-8994-303176225F02}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "SharedProject", "SharedProject\SharedProject.shproj", "{92FBC531-F0EA-4388-A069-4384EB3C52BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD46E492-D5DE-4902-8994-303176225F02}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{CD46E492-D5DE-4902-8994-303176225F02}.Debug|iPhone.Build.0 = Debug|iPhone
+		{CD46E492-D5DE-4902-8994-303176225F02}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{CD46E492-D5DE-4902-8994-303176225F02}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{CD46E492-D5DE-4902-8994-303176225F02}.Release|iPhone.ActiveCfg = Release|iPhone
+		{CD46E492-D5DE-4902-8994-303176225F02}.Release|iPhone.Build.0 = Release|iPhone
+		{CD46E492-D5DE-4902-8994-303176225F02}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{CD46E492-D5DE-4902-8994-303176225F02}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
